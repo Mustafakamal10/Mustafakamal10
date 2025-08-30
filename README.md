@@ -17,9 +17,9 @@
 
 ## 📌 Featured Projects  
 
-- 🌐 [Xtreme Zone Gym Website](https://github.com/Mustafakamal10/xtreme-zone-gym) – A modern fitness website built with HTML & CSS  
-- ✅ [Todo App](https://github.com/Mustafakamal10/todo-app) – Task management app using JavaScript  
-- 🎬 [Netflix Clone](https://github.com/Mustafakamal10/netflix-clone) – Static Netflix UI built with HTML & CSS  
+- 🌐 [Xtreme Zone Gym Website](https://github.com/Mustafakamal10/gym_website) – A modern fitness website built with HTML & CSS  
+- ✅ [Todo App](https://github.com/Mustafakamal10/Todo_app) – Task management app using JavaScript  
+- 🎬 [Netflix Clone](https://github.com/Mustafakamal10/Netflex_clone) – Static Netflix UI built with HTML & CSS  
 
 ---
 
