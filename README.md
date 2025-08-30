@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi, I'm Mustafa 👋  
 
-<!--
-**Mustafakamal10/Mustafakamal10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Software Engineering Student at **Abasyn University Peshawar**  
+💻 Passionate about **Web Development & Python Programming**  
+🚀 Currently building projects with **HTML, CSS, JavaScript, Node.js, MongoDB**  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+- **Frontend:** HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express  
+- **Database:** MongoDB, MySQL (basic)  
+- **Programming:** Python. 
+- **Other Tools:** Git, GitHub, VS Code  
+
+---
+
+## 📌 Featured Projects  
+
+- 🌐 [Xtreme Zone Gym Website](https://github.com/Mustafakamal10/xtreme-zone-gym) – A modern fitness website built with HTML & CSS  
+- ✅ [Todo App](https://github.com/Mustafakamal10/todo-app) – Task management app using JavaScript  
+- 🎬 [Netflix Clone](https://github.com/Mustafakamal10/netflix-clone) – Static Netflix UI built with HTML & CSS  
+
+---
+
+## 📖 What I’m Learning
+- Advanced JavaScript (DOM, Promises, Async/Await, APIs)  
+- React.js for frontend development  
+- Data Structures & Algorithms in Python  
+
+---
+
+## 📫 Connect with me
+- Email: **murtazakamalkamalhussain@gmail.com**  
+- LinkedIn: [Mustafa kamal](https://www.linkedin.com/in/mustafa-kamal-674077326)  
+- GitHub: [Mustafakamal10](https://github.com/Mustafakamal10)  
+
+---
+
+⭐ *Feel free to explore my repositories and connect with me!*  
